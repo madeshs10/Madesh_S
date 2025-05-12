@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/madeshs10/Madesh_S/blob/main/asset/Git.gif" alt="Hi, I'm Madesh S 👋 I'm a 🚀 Full-Stack developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
+<h1 align="center">Hi, I'm Madesh S 👋 I'm a 🚀 Full-Stack developer 🚀</h1>
 <h3 align="center">A good team player, who wants to be a successful professional in a globally respected company, achieve the objectives of the company with honesty and fairness and to continuously upgrade my knowledge and skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeshs10&label=Profile%20views&color=0e75b6&style=flat" alt="madeshs10" /> </p>
