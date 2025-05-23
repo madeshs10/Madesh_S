@@ -1,7 +1,7 @@
 "use strict";
 
 const API_URL = "https://www.omdbapi.com/";
-const API_KEY = "3ef4ab9e";
+const API_KEY = "API KEY HERE";
 
 /**
  * Fetch movies from omdbapi
