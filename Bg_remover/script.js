@@ -38,7 +38,7 @@ function submitHandler() {
   formData.append("image_file", image);
   formData.append("size", "auto");
 
-  const apiKey = "5V4yNGbdJ9Dr83u6GAbxD8Vw";
+  const apiKey = "Place your Api_key here";
 
   fetch("https://api.remove.bg/v1.0/removebg", {
     method: "POST",
