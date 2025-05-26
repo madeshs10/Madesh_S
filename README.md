@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madeshs10&show_icons=true&locale=en&layout=compact" alt="madeshs10" /></p>
 
-![](https://leetcard.jacoblin.cool/Madesh_S?ext=heatmap)
+
