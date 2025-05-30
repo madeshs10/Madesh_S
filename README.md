@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Madesh S 👋 I'm a 🚀 Full-Stack developer 🚀</h1>
+<h1 align="center">Welcome to My Github 😉</h1>
 
 <p  align="center"><img height="380" src = "https://github.com/madeshs10/Madesh_S/blob/main/git2.gif"></p>
 
