@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Madesh S 👋 I'm a 🚀 Full-Stack developer 🚀</h1>
 
+<p  align="center"><img height="380" src = "https://github.com/madeshs10/Madesh_S/blob/main/git2.gif"></p>
+
 ## About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - 🤝 A dedicated team player with a strong desire to grow into a successful professional in a globally respected organization.
