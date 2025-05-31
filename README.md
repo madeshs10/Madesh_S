@@ -4,18 +4,18 @@
 
 ## About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-🤝 A dedicated team player with a strong desire to grow into a successful professional in a globally respected organization.
-🎯 Committed to achieving company goals with integrity, fairness, and dedication.
-🚀 Continuously striving to upgrade my knowledge and sharpen my skills to stay ahead in tech.
-🌍 Passionate about contributing to meaningful projects that make a positive impact globally.
-⚡ Fun Fact: **I believe a good cup of coffee and clean code can solve almost anything!**
-💀 What is the worst thing to read in braille? " Do not touch the signboard 😑 "
+- 🤝 A dedicated team player with a strong desire to grow into a successful professional in a globally respected organization.
+- 🎯 Committed to achieving company goals with integrity, fairness, and dedication.
+- 🚀 Continuously striving to upgrade my knowledge and sharpen my skills to stay ahead in tech.
+- 🌍 Passionate about contributing to meaningful projects that make a positive impact globally.
+- ⚡ Fun Fact: **I believe a good cup of coffee and clean code can solve almost anything!**
+- 💀 What is the worst thing to read in braille? " Do not touch the signboard 😑 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeshs10&label=Profile%20views&color=0e75b6&style=flat" alt="madeshs10" /> </p>
 
-👯 I’m looking to collaborate on **Front-end Projects**
+- 👯 I’m looking to collaborate on **Front-end Projects**
 
-📫 How to reach me **madeshs1007@gmail.com**
+- 📫 How to reach me **madeshs1007@gmail.com**
 
 ---
 
